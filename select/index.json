@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "CLAP CLAP",
+  "base_artist": "NiziU",
+  "createdAt": "2026-03-22T07:06:14.399058Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Clap clap",
+      "artist": "RK",
+      "has_synced": false,
+      "path": "select/01_Clap_clap_RK.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Clap Clap",
+      "artist": "Official HIGE DANdism",
+      "has_synced": false,
+      "path": "select/02_Clap_Clap_Official_HIGE_DANdism.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Clap Clap",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/03_Clap_Clap_Official髭男dism.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CLAP CLAP",
+      "artist": "NiziU",
+      "has_synced": true,
+      "path": "select/04_CLAP_CLAP_NiziU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Clap Clap",
+      "artist": "Delaporte",
+      "has_synced": true,
+      "path": "select/05_Clap_Clap_Delaporte.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "CLAP CLAP (feat. Artie 5ive, Niky Savage)",
+      "artist": "Sadturs feat. KIID, Artie 5ive & Niky Savage",
+      "has_synced": true,
+      "path": "select/06_CLAP_CLAP_(feat._Artie_5ive,_Niky_Savage)_Sadturs_feat._KIID,_Artie_5ive_&_Niky_Savage.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "CLAP CLAP",
+      "artist": "SadTurs & KIID feat․ Artie 5ive, Niky Savage",
+      "has_synced": true,
+      "path": "select/07_CLAP_CLAP_SadTurs_&_KIID_feat._Artie_5ive,_Niky_Savage.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "CLAP CLAP",
+      "artist": "Spice",
+      "has_synced": true,
+      "path": "select/08_CLAP_CLAP_Spice.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Clap Clap",
+      "artist": "Gran Error feat. Elvana Gjata & Antonia",
+      "has_synced": false,
+      "path": "select/09_Clap_Clap_Gran_Error_feat._Elvana_Gjata_&_Antonia.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Clap Clap",
+      "artist": "Gran Error, Elvana Gjata, Antonia",
+      "has_synced": false,
+      "path": "select/10_Clap_Clap_Gran_Error,_Elvana_Gjata,_Antonia.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Clap, Clap Your Hands",
+      "artist": "LaMar Boschman",
+      "has_synced": false,
+      "path": "select/11_Clap,_Clap_Your_Hands_LaMar_Boschman.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CLAP CLAP",
+      "artist": "NiziU",
+      "has_synced": false,
+      "path": "select/pl_01_CLAP_CLAP_NiziU.txt"
+    }
+  ]
+}
